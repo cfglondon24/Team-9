@@ -9,3 +9,5 @@ https://dialogflow.cloud.google.com/cx/projects/nimble-artwork-420009/locations/
 https://cloud.google.com/dialogflow/cx/docs - documentation for dialogflow
 
 https://www.youtube.com/playlist?list=PLJLSPq0cTRmat9ec-c0hOJJhhNfObZXy3 - youtube playlist with many tutorials for the whole process
+
+https://codelabs.developers.google.com/codelabs/dialogflow-cx-retail-agent#2 - google tutorial (closely following this tutorial)
