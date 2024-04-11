@@ -8,4 +8,5 @@ Developed by: Cindy Yun, Jiangjing Xu, Mara Yap, Nina Varadarajan
 Contributions:
 
 UI/UX: Mara Yap, Nina Varadarajan
+
 Google Dialogflow: Cindy Yun, Jiangjing Xu
