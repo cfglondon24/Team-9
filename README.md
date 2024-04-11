@@ -4,6 +4,8 @@ Link to Google Dialogflow Github (it would not allow to push to private repos so
 
 Developed by: Cindy Yun, Jiangjing Xu, Mara Yap, Nina Varadarajan
 
-Contributions:"\n"
+
+Contributions:
+
 UI/UX: Mara Yap, Nina Varadarajan
 Google Dialogflow: Cindy Yun, Jiangjing Xu
